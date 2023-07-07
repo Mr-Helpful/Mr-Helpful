@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[An animated SVG for my homepage](./README.svg)
+![An animated SVG for my homepage](./README.svg)
 
 <!--
 **Mr-Helpful/Mr-Helpful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
