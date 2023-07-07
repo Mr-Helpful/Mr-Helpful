@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div
+  onMouseOver="this.style.color='#OFO'"
+  onMouseOut="this.style.color='#OOF'"
+  style="color: #OOF"
+>
+  If this works, it's a very dumb workaround...
+</div>
+
 <!--
 **Mr-Helpful/Mr-Helpful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
