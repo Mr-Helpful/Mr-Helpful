@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <style>
   .foo {
     background-color: #FFF
@@ -9,6 +7,8 @@
     background-color: #CCC
   }
 </style>
+
+### Hi there 👋
 
 <div class="foo">bar</div>
 <!--
